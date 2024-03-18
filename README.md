@@ -4,7 +4,7 @@
 
 ## Aim
 
-#### To create a Helmet detection system which will detect Human face and then check if Mask is worn or not.
+#### To create a Mask detection system which will detect Human face and then check if Mask is worn or not.
 
 ## Objectives
 
